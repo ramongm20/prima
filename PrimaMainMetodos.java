@@ -12,6 +12,9 @@ import java.util.Scanner;
  * @see java.util.Scanner
  */
 public class PrimaMainMetodos {
+	/**
+	 * Objeto que lee los datos de entrada. Se declara aquí para que pueda ser utilizado por cualquier método.
+	 */
 	static Scanner teclado = new Scanner(System.in);
 
 	/**
