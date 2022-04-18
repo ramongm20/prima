@@ -6,7 +6,8 @@ Ramón García, estudiante del Ciclo formativo de grado superior en desarrollo d
 
 ## Descripción del programa
 
-Esta liviana aplicación accesible a través de línea de comandos ofrece una manera rápida de calcular la prima correspondiente al personal de una empresa. Para ello tiene en cuenta tanto la antigüedadd como la responsabilidad del puesto de trabajo.
+Esta liviana aplicación accesible a través de línea de comandos ofrece una manera rápida de calcular la prima correspondiente al personal de una empresa. Para ello tiene en cuenta tanto la antigüedadd como la responsabilidad del puesto de trabajo.  
+
 ![Captura del programa](captura.png)
 
 ## Tecnologías implementadas
