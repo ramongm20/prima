@@ -1,11 +1,13 @@
+package prima;
+
 import java.util.Scanner;
 
 /**
  * <h1>Clase para calcular la prima de un empleado</h1>
  * 
- * Esta clase implementa el
- * método Main para ejecutar un programa de consola que toma los datos
- * necesarios para calcular la prima correspondiente a un empleado dado.
+ * Esta clase implementa el método Main para ejecutar un programa de consola que
+ * toma los datos necesarios para calcular la prima correspondiente a un
+ * empleado dado. Todos sus métodos son métodos de clase.
  * 
  * @author Ramón García
  * @version 1.0
@@ -13,7 +15,8 @@ import java.util.Scanner;
  */
 public class PrimaMainMetodos {
 	/**
-	 * Objeto que lee los datos de entrada. Se declara aquí para que pueda ser utilizado por cualquier método.
+	 * Objeto que lee los datos de entrada. Se declara aquí para que pueda ser
+	 * utilizado por cualquier método.
 	 */
 	static Scanner teclado = new Scanner(System.in);
 

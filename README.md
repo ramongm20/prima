@@ -2,7 +2,7 @@
 
 ## Autor
 
-Ramón García, estudiante del Ciclo formativo de grado superior en desarrollo de aplicaciones web. Puedes conocer más de mis proyectos visitando mi perfil en GitHub: [@ramongm20](https://github.com/ramongm20).
+Ramón García (Avilés), estudiante del Ciclo formativo de Grado Superior en Desarrollo de Aplicaciones Web. Puedes conocer más de mis proyectos visitando mi perfil en GitHub: [@ramongm20](https://github.com/ramongm20).
 
 ## Descripción del programa
 
